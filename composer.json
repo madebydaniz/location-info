@@ -1,6 +1,6 @@
 {
   "name": "madebydaniz/location-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a tool to search OSM data by name and address and to generate synthetic addresses of OSM points (reverse geocoding).",
   "license": "MIT",
   "type": "package",
