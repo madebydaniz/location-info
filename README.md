@@ -51,3 +51,11 @@ Array
     [importance] => 0.441
 )
 ```
+
+#TODO : return format
+- [ ] html
+- [ ] xml
+- [x] json
+- [x] jsonv2
+- [ ] geojson
+- [ ] geocodejson
